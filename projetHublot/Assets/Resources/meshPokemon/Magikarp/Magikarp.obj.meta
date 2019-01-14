@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 9cd1a08033c869f4fbd07467cecd195d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aleta_alteral_2
+    100002: Aleta_arriba
+    100004: Aleta_lateral
+    100006: Aletabajo
+    100008: Bigotes
+    100010: Boca
+    100012: Cola
+    100014: Cuerpo
+    100016: Labios
+    100018: //RootNode
+    100020: Ojo_1_Esfera
+    100022: Ojo_1_ojo1
+    100024: Ojo_Esfera1
+    100026: Ojo_ojo
+    400000: Aleta_alteral_2
+    400002: Aleta_arriba
+    400004: Aleta_lateral
+    400006: Aletabajo
+    400008: Bigotes
+    400010: Boca
+    400012: Cola
+    400014: Cuerpo
+    400016: Labios
+    400018: //RootNode
+    400020: Ojo_1_Esfera
+    400022: Ojo_1_ojo1
+    400024: Ojo_Esfera1
+    400026: Ojo_ojo
+    2100000: Aleta_alteral_2Mat
+    2100002: Aleta_arribaMat
+    2100004: Aleta_lateralMat
+    2100006: AletabajoMat
+    2100008: BigotesMat
+    2100010: BocaMat
+    2100012: ColaMat
+    2100014: CuerpoMat
+    2100016: LabiosMat
+    2100018: Ojo_1_EsferaMat
+    2100020: Ojo_1_ojo1Mat
+    2100022: Ojo_Esfera1Mat
+    2100024: Ojo_ojoMat
+    2300000: Aleta_alteral_2
+    2300002: Aleta_arriba
+    2300004: Aleta_lateral
+    2300006: Aletabajo
+    2300008: Bigotes
+    2300010: Boca
+    2300012: Cola
+    2300014: Cuerpo
+    2300016: Labios
+    2300018: Ojo_1_Esfera
+    2300020: Ojo_1_ojo1
+    2300022: Ojo_Esfera1
+    2300024: Ojo_ojo
+    3300000: Aleta_alteral_2
+    3300002: Aleta_arriba
+    3300004: Aleta_lateral
+    3300006: Aletabajo
+    3300008: Bigotes
+    3300010: Boca
+    3300012: Cola
+    3300014: Cuerpo
+    3300016: Labios
+    3300018: Ojo_1_Esfera
+    3300020: Ojo_1_ojo1
+    3300022: Ojo_Esfera1
+    3300024: Ojo_ojo
+    4300000: Aleta_alteral_2
+    4300002: Aleta_arriba
+    4300004: Aleta_lateral
+    4300006: Aletabajo
+    4300008: Bigotes
+    4300010: Boca
+    4300012: Cola
+    4300014: Cuerpo
+    4300016: Labios
+    4300018: Ojo_1_Esfera
+    4300020: Ojo_1_ojo1
+    4300022: Ojo_Esfera1
+    4300024: Ojo_ojo
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
