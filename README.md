@@ -1,2 +1,2 @@
 # HublotProject
-Creation of a submarine window in reality increased.
+Creation of a submarine window in augmented reality.
